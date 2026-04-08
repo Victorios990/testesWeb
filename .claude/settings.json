@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -s -X POST https://serverest.dev/usuarios -H 'Content-Type: application/json' -d '{\"nome\":\"Victor Laurentino\",\"email\":\"victor.laurentino90@gmail.com\",\"password\":\"agnes123456\",\"administrador\":\"true\"}')"
+    ]
+  }
+}

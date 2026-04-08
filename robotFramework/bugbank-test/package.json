@@ -1,0 +1,16 @@
+{
+  "name": "bugbank-test",
+  "version": "1.0.0",
+  "description": "Este projeto contém testes automatizados usando Robot Framework para o site https://bugbank.netlify.app.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.2.3",
+    "cypress": "^15.4.0"
+  }
+}

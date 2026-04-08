@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(export PATH=\"/Users/victor/Library/Python/3.9/bin:$PATH\")",
+      "Bash(/Users/victor/Library/Python/3.9/bin/robot -d results gui/tests/login_tests.robot)"
+    ]
+  }
+}
